@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(286): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(314): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(369): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(373): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(396): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(400): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(420): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(424): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(444): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(448): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rob frost\downloads\timber-master\timber-master\timber\timber\timber.cpp(472): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Timber.vcxproj -> C:\Users\Rob Frost\Downloads\timber-master\timber-master\Timber\Debug\Timber.exe
